@@ -14,7 +14,7 @@
 
 ## 📁 [Portfólio](https://merciful-daphne-98e.notion.site/Marx-Araujo-225e883ebb298090b128c34d2eb3b864)
 
-Aqui você encontrará projetos completos envolvendo:
+Aqui você encontrará:
 
 * Projetos completos de Data Science e Analytics.
 * Estudos de caso com foco em problemas reais de negócio.
