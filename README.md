@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Olá! Seja bem-vindo(a)
 
-<!--
-**Maxhawk99/Maxhawk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Sou Marx Araujo, formado em Engenharia com especialização na área de Dados.
+* 📊 Atualmente construindo um portfólio robusto de projetos autorais que demonstram expertise em todo o ciclo de data science, desde EDA até deployment e monitoramento.
+* 🚀 Tenho perfil mão na massa, orientado a produto e negócio, buscando sempre transformar dados em decisões acionáveis e mensuráveis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Soft skills
+
+* Pensamento analítico e crítico.
+* Comunicação clara de insights técnicos e de negócio.
+* Organização e documentação de projetos.
+* Autonomia, curiosidade e aprendizado contínuo.
+* Foco em impacto real e viabilidade operacional.
+
+---
+
+### 📁 [Portfólio](https://merciful-daphne-98e.notion.site/Marx-Araujo-225e883ebb298090b128c34d2eb3b864)
+
+Aqui você encontrará projetos completos envolvendo:
+
+* Projetos completos de Data Science e Analytics.
+* Estudos de caso com foco em problemas reais de negócio.
+* Análises explicáveis, bem documentadas e orientadas a decisão.
+* Código organizado, reprodutível e com storytelling claro.
+
+👉 *Meu objetivo é simular problemas reais de negócio e apresentar soluções realistas e interpretáveis.*
