@@ -4,8 +4,6 @@
 * 📊 Atualmente construindo um portfólio robusto de projetos autorais que demonstram expertise em todo o ciclo de data science, desde EDA até deployment e monitoramento.
 * 🚀 Tenho perfil mão na massa, orientado a produto e negócio, buscando sempre transformar dados em decisões acionáveis e mensuráveis.
 
----
-
 ### 🧠 Soft skills
 
 * Pensamento analítico e crítico.
@@ -13,8 +11,6 @@
 * Organização e documentação de projetos.
 * Autonomia, curiosidade e aprendizado contínuo.
 * Foco em impacto real e viabilidade operacional.
-
----
 
 ### 📁 [Portfólio](https://merciful-daphne-98e.notion.site/Marx-Araujo-225e883ebb298090b128c34d2eb3b864)
 
